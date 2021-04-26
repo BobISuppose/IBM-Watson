@@ -1,0 +1,50 @@
+I had to share my code on github due to IBM Watsons monthly compute usage limit that was reached. I had no way to upload and upgrading Watson Studio did not work.
+
+# "My Jupyter Notebook on IBM Watson Studio".
+
+
+
+
+**Robert** 
+
+Desired Occupation:
+Data Scientist/Analyst
+
+
+
+*I am insterested in data science because I love working with people and data. We have raw information and we can use this data to investigate possible correlations.  *
+
+### This is an example of a simple addition problem in R in which {r, include=TRUE} is shown to include the code, change to FALSE to hide.
+
+```{r, include=TRUE}
+
+
+29+29
+```
+
+
+1. This is an example of a ~~strikethough~~ with the use of ~~ on both sides of your characters
+
+2. Here is a [link](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf) to a cheat sheet I used in college I have always referred to in the past.
+
+***It is important to refer to this github [link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables) for more examples***
+
+
+Block quotes can be used like this... 
+
+>People only excel if you give them the tools to do a great job. -Richard Branson
+
+
+
+>By treating people in a adult way, you get adult behavior back. -Richard Branson
+
+3. Here is a simple horizontal rule below
+
+---
+
+
+ *As you can see, Horizontal rules are quite handy*
+
+
+---
+
